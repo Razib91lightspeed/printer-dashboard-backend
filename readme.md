@@ -82,22 +82,26 @@ The application uses environment variables or default local paths. On a Mac (dev
 ## 📦 Installation
 
 1. **Clone and Install Node modules:**
-   ```bash
+
+```bash
    npm install
-```
+   ```
 
 2. **Python Dependencies (for MQTT validation):**
  ```bash
 pip install paho-mqtt
 ```
 3. **Running the app:**
-   ```bash
-   # Development
-   node index.js
    
-   # Production (on Pi)
+   ### Development
+```bash
+   node index.js
+   ```
+   
+   ### Production (on Pi)
+```bash
    sudo systemctl start printer-dashboard
-```
+   ```
 
 # License
 ISC
