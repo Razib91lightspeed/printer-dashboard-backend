@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Python
+__pycache__/
+venv/
+
+# Backups
+*.bak
+*.tmp
+
+# OS
+.DS_Store
