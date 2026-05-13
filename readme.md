@@ -110,7 +110,7 @@ ISC
 ```bash
 git clone https://github.com/Razib91lightspeed/bambu-fiware.git
 ```
--Repo 2
+- Repo 2
 ```bash
 git clone https://github.com/Razib91lightspeed/FieldLab_Printing_HUB.git
 ```
