@@ -101,3 +101,12 @@ pip install paho-mqtt
 
 # License
 ISC
+### Note: there are two more git repo for this project to work 
+- Repo 1
+```bash
+git clone https://github.com/Razib91lightspeed/bambu-fiware.git
+```
+-Repo 2
+```bash
+git clone https://github.com/Razib91lightspeed/FieldLab_Printing_HUB.git
+```
